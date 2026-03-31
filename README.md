@@ -1,7 +1,7 @@
 # Synthetix: AI-Powered Research Synthesis
 
 ## Problem Statement
-
+<h3><b>Build an AI research assistant to help students explore and summarize content</b></h3>
 In the modern digital era, researchers, students, and professionals are constantly overwhelmed by an "information blizzard." Academic papers are becoming longer and more complex, while the sheer volume of web-based resources is growing exponentially. The traditional method of manually reading, highlighting, and summarizing these sources is no longer sustainable. It is a slow, error-prone process that often leads to "cognitive fatigue," where the researcher loses the ability to connect high-level concepts because they are bogged down in the minutiae of the text. This bottleneck hinders innovation and slows down the pace of learning and discovery.
 
 ## Project Description: How it Works (The Synthesis Engine)
@@ -79,3 +79,6 @@ Our integration is handled via the `@google/genai` SDK, which allows for direct,
 3.  **Synthesize**: Click the "Synthesize" button. The AI will process the content in real-time.
 4.  **Review & Save**: Explore the generated Summary, Takeaways, and Glossary. Your work is automatically saved to your "Recent Work" sidebar.
 5.  **Manage History**: You can revisit previous syntheses at any time or delete them to keep your library organized.
+
+<h1>Working video</h1>
+[Watch Demo](./Demo_video/project1.mp4)
