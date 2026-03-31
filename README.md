@@ -34,6 +34,10 @@ Our integration is handled via the `@google/genai` SDK, which allows for direct,
 - [Grounding & Tools](./proof/grounding-proof.png) - *Showing the model utilizing URL context for live web analysis.*
 
 ---
+##Screenshots
+<img width="1849" height="877" alt="Screenshot from 2026-03-31 16-24-00" src="https://github.com/user-attachments/assets/889084f2-f5af-483b-b388-83bf12415bca" />
+<img width="1849" height="877" alt="Screenshot from 2026-03-31 16-24-09" src="https://github.com/user-attachments/assets/ef6fea62-5be3-4a70-af53-2f05aa44071b" />
+
 
 ## Installation & Usage Guide
 
