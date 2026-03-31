@@ -80,5 +80,4 @@ Our integration is handled via the `@google/genai` SDK, which allows for direct,
 4.  **Review & Save**: Explore the generated Summary, Takeaways, and Glossary. Your work is automatically saved to your "Recent Work" sidebar.
 5.  **Manage History**: You can revisit previous syntheses at any time or delete them to keep your library organized.
 
-<h1>Working video</h1>
-![Watch Demo](./Demo_video/project1.mp4)
+[Watch Demo](./Demo_video/project1.mp4)
